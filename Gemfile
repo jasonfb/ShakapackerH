@@ -65,3 +65,4 @@ end
 
 gem 'react_on_rails', '13.0.2' # prefer exact gem version to match npm version
 gem 'shakapacker', '6.5.2' # prefer exact gem version to match npm version
+gem "mini_racer", platforms: :ruby
